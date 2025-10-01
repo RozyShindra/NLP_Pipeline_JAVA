@@ -1,0 +1,38 @@
+| **Tag**  | **Meaning**                                | **Example**                           |
+| -------- | ------------------------------------------ | ------------------------------------- |
+| **CC**   | Coordinating conjunction                   | *and, but, or, yet*                   |
+| **CD**   | Cardinal number                            | *one, two, 100*                       |
+| **DT**   | Determiner                                 | *the, a, an, this*                    |
+| **EX**   | Existential *there*                        | *there is, there was*                 |
+| **FW**   | Foreign word                               | *ciao, bonjour*                       |
+| **IN**   | Preposition or subordinating conjunction   | *in, of, on, that, because*           |
+| **JJ**   | Adjective                                  | *happy, large, fast*                  |
+| **JJR**  | Adjective, comparative                     | *bigger, faster, stronger*            |
+| **JJS**  | Adjective, superlative                     | *biggest, fastest, strongest*         |
+| **LS**   | List item marker                           | *(a), (1), (i)*                       |
+| **MD**   | Modal                                      | *can, will, must, should*             |
+| **NN**   | Noun, singular or mass                     | *dog, computer, school*               |
+| **NNS**  | Noun, plural                               | *dogs, computers, schools*            |
+| **NNP**  | Proper noun, singular                      | *John, London, Monday*                |
+| **NNPS** | Proper noun, plural                        | *Americans, Beatles, Googlers*        |
+| **PDT**  | Predeterminer                              | *all the kids, quite a mess*          |
+| **POS**  | Possessive ending                          | *’s, ’*                               |
+| **PRP**  | Personal pronoun                           | *I, you, he, she, it, we, they*       |
+| **PRP$** | Possessive pronoun                         | *my, your, his, her, its, our, their* |
+| **RB**   | Adverb                                     | *quickly, very, well*                 |
+| **RBR**  | Adverb, comparative                        | *faster, better, more quickly*        |
+| **RBS**  | Adverb, superlative                        | *fastest, best, most quickly*         |
+| **RP**   | Particle                                   | *up, off, out (pick up, turn off)*    |
+| **SYM**  | Symbol                                     | *+, %, &*                             |
+| **TO**   | *to* (as preposition or infinitive marker) | *to go, to school*                    |
+| **UH**   | Interjection                               | *wow, oh, hello*                      |
+| **VB**   | Verb, base form                            | *run, eat, be*                        |
+| **VBD**  | Verb, past tense                           | *ran, ate, was*                       |
+| **VBG**  | Verb, gerund/present participle            | *running, eating, being*              |
+| **VBN**  | Verb, past participle                      | *run, eaten, been*                    |
+| **VBP**  | Verb, non-3rd person singular present      | *I run, you eat*                      |
+| **VBZ**  | Verb, 3rd person singular present          | *runs, eats, is*                      |
+| **WDT**  | Wh-determiner                              | *which, that*                         |
+| **WP**   | Wh-pronoun                                 | *who, what*                           |
+| **WP$**  | Possessive wh-pronoun                      | *whose*                               |
+| **WRB**  | Wh-adverb                                  | *where, when, why, how*               |

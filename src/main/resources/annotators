@@ -1,0 +1,31 @@
+Explanation of Each Annotator
+
+tokenize → Splits raw text into tokens (words, punctuation).
+
+ssplit → Splits tokens into sentences.
+
+pos → Part-of-Speech tagging (noun, verb, etc.).
+
+lemma → Lemmatization (reduce to base form, e.g. running → run).
+
+ner → Named Entity Recognition (people, locations, organizations, etc.).
+
+regexner → Rule-based entity recognition using regex patterns.
+
+entitymentions → Marks entity mentions in text.
+
+parse → Phrase-structure syntactic parsing (constituency parsing).
+
+depparse → Dependency parsing (grammatical relations).
+
+coref → Coreference resolution (finds pronoun → noun link, e.g. Obama... he).
+
+kbp → Relation extraction (knowledge base population).
+
+quote → Detects and attributes quotes.
+
+sentiment → Sentiment analysis (positive/negative/neutral).
+
+natlog → Natural logic annotations (used for inference).
+
+openie → Open Information Extraction (triplets like Obama, born, Hawaii).
